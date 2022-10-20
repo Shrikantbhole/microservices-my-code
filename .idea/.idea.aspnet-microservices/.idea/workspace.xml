@@ -32,7 +32,11 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="42376022-6007-4a0a-a6d3-51e992e8689f" name="Default Changelist" comment="" />
+    <list default="true" id="42376022-6007-4a0a-a6d3-51e992e8689f" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.aspnet-microservices/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.aspnet-microservices/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.aspnet-microservices/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.aspnet-microservices/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docker-compose.yml" beforeDir="false" afterPath="$PROJECT_DIR$/docker-compose.yml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -362,6 +366,7 @@
       <workItem from="1664258491683" duration="342000" />
       <workItem from="1664258866833" duration="613000" />
       <workItem from="1664259852640" duration="229000" />
+      <workItem from="1664260163896" duration="2038000" />
     </task>
     <task id="LOCAL-00001" summary="1st commit">
       <created>1657086095535</created>
