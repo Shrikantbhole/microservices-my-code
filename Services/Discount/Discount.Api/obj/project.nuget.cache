@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "WrQK6X3zW6TqtMvVAeJhjJe92be8JQVBGp2Y6u6MUoQfzYglvq7rVahdHAnINQvF20VhsKpJyKJnXDy1CP/G6w==",
+  "dgSpecHash": "wRjJrcEYonZ7TELkyEn0uPR2YqsA0aTHePai6U2XH50V4573m6LQ/AvVgjP6cNYVrxSihfVBh6kpinFYZbRCQA==",
   "success": true,
   "projectFilePath": "C:\\Users\\bhole\\Desktop\\aspNet-Microservices-udemy\\currentCode\\src\\Services\\Discount\\Discount.Api\\Discount.Api.csproj",
   "expectedPackageFiles": [
@@ -37,11 +37,7 @@
     "C:\\Users\\bhole\\.nuget\\packages\\system.componentmodel.annotations\\5.0.0\\system.componentmodel.annotations.5.0.0.nupkg.sha512",
     "C:\\Users\\bhole\\.nuget\\packages\\system.diagnostics.diagnosticsource\\5.0.0\\system.diagnostics.diagnosticsource.5.0.0.nupkg.sha512",
     "C:\\Users\\bhole\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.6.0\\system.runtime.compilerservices.unsafe.4.6.0.nupkg.sha512",
-    "C:\\Users\\bhole\\.nuget\\packages\\system.text.json\\4.7.2\\system.text.json.4.7.2.nupkg.sha512",
-    "C:\\Users\\bhole\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512",
-    "C:\\Users\\bhole\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
-    "C:\\Users\\bhole\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
-    "C:\\Users\\bhole\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.15\\microsoft.netcore.app.host.win-x64.5.0.15.nupkg.sha512"
+    "C:\\Users\\bhole\\.nuget\\packages\\system.text.json\\4.7.2\\system.text.json.4.7.2.nupkg.sha512"
   ],
   "logs": []
 }

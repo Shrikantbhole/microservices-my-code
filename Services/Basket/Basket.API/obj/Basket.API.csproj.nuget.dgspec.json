@@ -47,6 +47,10 @@
               "target": "Package",
               "version": "[2.0.123, )"
             },
+            "Grpc.AspNetCore": {
+              "target": "Package",
+              "version": "[2.40.0, )"
+            },
             "Microsoft.Extensions.Caching.StackExchangeRedis": {
               "target": "Package",
               "version": "[6.0.7, )"
